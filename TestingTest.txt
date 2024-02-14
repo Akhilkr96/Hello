@@ -1,1 +1,1 @@
- we removed files contents
+ we now removed files contents
